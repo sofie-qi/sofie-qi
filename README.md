@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sofie-qi
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python, SQL, DevOps
+- 🌱 I’m currently learning Python, SQL, R, DevOps
 - 💞️ I’m looking to collaborate on Python and SQL projects
 - 📫 How to reach me: sofie.qi@gmail.com
 
